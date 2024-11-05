@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "127060770876",
+    "project_id": "coocoo-1db65",
+    "storage_bucket": "coocoo-1db65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127060770876:android:8c0498647d832556fb0339",
+        "android_client_info": {
+          "package_name": "com.example.coocoo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtt_5ThSuxZoEmH31i9yJ4loEcr3fh2L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
